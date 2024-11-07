@@ -1,4 +1,4 @@
-![Screenshot 2024-11-07 104415](https://github.com/user-attachments/assets/6e0892e4-6ad4-4d10-9ee6-d0425dbd8a33)![image](https://github.com/user-attachments/assets/fbe4d65a-44ae-4e44-bad2-c101c87ccd70)![image](https://github.com/user-attachments/assets/c40975a0-d309-4fb3-bce7-94aa5da854fb)### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
